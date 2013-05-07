@@ -1,9 +1,13 @@
 
+DreamScape LLC.
+www.level43.com
+
+OPENSOURCE:
+
 This is the base project of publishing information in Facebook about game updates.
 
 Requirements:
 Visual Studio 2010
-
 
 Installation:
 Clone the repository:
