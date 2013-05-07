@@ -1,0 +1,68 @@
+C:\facebooksdk-a1a3956607ca\facebooksdk_a1a3956607ca\Samples\CS-WinForms\bin\Release\CS-WinForms.exe
+C:\facebooksdk-a1a3956607ca\facebooksdk_a1a3956607ca\Samples\CS-WinForms\bin\Release\CS-WinForms.pdb
+C:\facebooksdk-a1a3956607ca\facebooksdk_a1a3956607ca\Samples\CS-WinForms\bin\Release\Facebook.dll
+C:\facebooksdk-a1a3956607ca\facebooksdk_a1a3956607ca\Samples\CS-WinForms\bin\Release\Facebook.pdb
+C:\facebooksdk-a1a3956607ca\facebooksdk_a1a3956607ca\Samples\CS-WinForms\bin\Release\Facebook.xml
+C:\facebooksdk-a1a3956607ca\facebooksdk_a1a3956607ca\Samples\CS-WinForms\obj\x86\Release\ResolveAssemblyReference.cache
+C:\facebooksdk-a1a3956607ca\facebooksdk_a1a3956607ca\Samples\CS-WinForms\obj\x86\Release\CS_WinForms.FacebookInfoDialog.resources
+C:\facebooksdk-a1a3956607ca\facebooksdk_a1a3956607ca\Samples\CS-WinForms\obj\x86\Release\CS_WinForms.FacebookLoginDialog.resources
+C:\facebooksdk-a1a3956607ca\facebooksdk_a1a3956607ca\Samples\CS-WinForms\obj\x86\Release\CS_WinForms.Form1.resources
+C:\facebooksdk-a1a3956607ca\facebooksdk_a1a3956607ca\Samples\CS-WinForms\obj\x86\Release\CS_WinForms.Properties.Resources.resources
+C:\facebooksdk-a1a3956607ca\facebooksdk_a1a3956607ca\Samples\CS-WinForms\obj\x86\Release\CS_WinForms.UploadProgressCancelForm.resources
+C:\facebooksdk-a1a3956607ca\facebooksdk_a1a3956607ca\Samples\CS-WinForms\obj\x86\Release\GenerateResource.read.1.tlog
+C:\facebooksdk-a1a3956607ca\facebooksdk_a1a3956607ca\Samples\CS-WinForms\obj\x86\Release\GenerateResource.write.1.tlog
+C:\facebooksdk-a1a3956607ca\facebooksdk_a1a3956607ca\Samples\CS-WinForms\obj\x86\Release\CS-WinForms.exe
+C:\facebooksdk-a1a3956607ca\facebooksdk_a1a3956607ca\Samples\CS-WinForms\obj\x86\Release\CS-WinForms.pdb
+C:\Users\arudas\Documents\Visual Studio 2010\Projects\CS-WinForms\obj\x86\Release\CS-WinForms.exe
+C:\Users\arudas\Documents\Visual Studio 2010\Projects\CS-WinForms\obj\x86\Release\CS-WinForms.pdb
+C:\Users\arudas\Documents\Visual Studio 2010\Projects\CS-WinForms - Copy\bin\Release\Facebook.pdb
+C:\Users\arudas\Documents\Visual Studio 2010\Projects\CS-WinForms - Copy\bin\Release\Facebook.xml
+C:\Users\arudas\Documents\Visual Studio 2010\Projects\CS-WinForms - Copy\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\arudas\Documents\Visual Studio 2010\Projects\CS-WinForms - Copy\obj\x86\Release\CS_WinForms.FacebookInfoDialog.resources
+C:\Users\arudas\Documents\Visual Studio 2010\Projects\CS-WinForms - Copy\obj\x86\Release\CS_WinForms.FacebookLoginDialog.resources
+C:\Users\arudas\Documents\Visual Studio 2010\Projects\CS-WinForms - Copy\obj\x86\Release\CS_WinForms.Form1.resources
+C:\Users\arudas\Documents\Visual Studio 2010\Projects\CS-WinForms - Copy\obj\x86\Release\CS_WinForms.UploadProgressCancelForm.resources
+C:\Users\arudas\Documents\Visual Studio 2010\Projects\CS-WinForms - Copy\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\arudas\Documents\Visual Studio 2010\Projects\CS-WinForms - Copy\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\arudas\Documents\Visual Studio 2010\Projects\CS-WinForms - Copy\obj\x86\Release\WOW_SOCIAL.Properties.Resources.resources
+C:\Users\arudas\Documents\Visual Studio 2010\Projects\CS-WinForms - Copy\bin\Release\WOW_SOCIAL.exe
+C:\Users\arudas\Documents\Visual Studio 2010\Projects\CS-WinForms - Copy\bin\Release\WOW_SOCIAL.pdb
+C:\Users\arudas\Documents\Visual Studio 2010\Projects\CS-WinForms - Copy\obj\x86\Release\WOW_SOCIAL.exe
+C:\Users\arudas\Documents\Visual Studio 2010\Projects\CS-WinForms - Copy\obj\x86\Release\WOW_SOCIAL.pdb
+C:\Users\arudas\Documents\Visual Studio 2010\Projects\CS-WinForms - Copy\bin\Release\WOW_SOCIAL.exe.config
+C:\Users\arudas\Documents\Visual Studio 2010\Projects\CS-WinForms - Copy\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\arudas\Documents\Visual Studio 2010\Projects\CS-WinForms - Copy\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\AGUSTIN\Documents\Visual Studio 2010\Projects\CS-WinForms - Copy\bin\Release\WOW_SOCIAL.exe.config
+C:\Users\AGUSTIN\Documents\Visual Studio 2010\Projects\CS-WinForms - Copy\obj\x86\Release\WOW_SOCIAL.exe
+C:\Users\AGUSTIN\Documents\Visual Studio 2010\Projects\CS-WinForms - Copy\obj\x86\Release\WOW_SOCIAL.pdb
+C:\Users\AGUSTIN\Documents\Visual Studio 2010\Projects\CS-WinForms - Copy\bin\Release\WOW_SOCIAL.exe
+C:\Users\AGUSTIN\Documents\Visual Studio 2010\Projects\CS-WinForms - Copy\bin\Release\WOW_SOCIAL.pdb
+C:\Users\AGUSTIN\Documents\Visual Studio 2010\Projects\CS-WinForms - Copy\bin\Release\Facebook.pdb
+C:\Users\AGUSTIN\Documents\Visual Studio 2010\Projects\CS-WinForms - Copy\bin\Release\Facebook.xml
+C:\Users\AGUSTIN\Documents\Visual Studio 2010\Projects\CS-WinForms - Copy\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\AGUSTIN\Documents\Visual Studio 2010\Projects\CS-WinForms - Copy\obj\x86\Release\CS_WinForms.FacebookInfoDialog.resources
+C:\Users\AGUSTIN\Documents\Visual Studio 2010\Projects\CS-WinForms - Copy\obj\x86\Release\CS_WinForms.FacebookLoginDialog.resources
+C:\Users\AGUSTIN\Documents\Visual Studio 2010\Projects\CS-WinForms - Copy\obj\x86\Release\CS_WinForms.Form1.resources
+C:\Users\AGUSTIN\Documents\Visual Studio 2010\Projects\CS-WinForms - Copy\obj\x86\Release\WOW_SOCIAL.Properties.Resources.resources
+C:\Users\AGUSTIN\Documents\Visual Studio 2010\Projects\CS-WinForms - Copy\obj\x86\Release\CS_WinForms.UploadProgressCancelForm.resources
+C:\Users\AGUSTIN\Documents\Visual Studio 2010\Projects\CS-WinForms - Copy\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\AGUSTIN\Documents\Visual Studio 2010\Projects\CS-WinForms - Copy\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\AGUSTIN\Documents\Visual Studio 2010\Projects\CS-WinForms - Copy\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\AGUSTIN\Documents\Visual Studio 2010\Projects\CS-WinForms - Copy\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\AGUSTIN\Documents\Visual Studio 2010\Projects\CS-WinForms - Guild\bin\Release\WOW_SOCIAL.exe.config
+C:\Users\AGUSTIN\Documents\Visual Studio 2010\Projects\CS-WinForms - Guild\obj\x86\Release\WOW_SOCIAL.exe
+C:\Users\AGUSTIN\Documents\Visual Studio 2010\Projects\CS-WinForms - Guild\obj\x86\Release\WOW_SOCIAL.pdb
+C:\Users\AGUSTIN\Documents\Visual Studio 2010\Projects\CS-WinForms - Guild\bin\Release\WOW_SOCIAL.exe
+C:\Users\AGUSTIN\Documents\Visual Studio 2010\Projects\CS-WinForms - Guild\bin\Release\WOW_SOCIAL.pdb
+C:\Users\AGUSTIN\Documents\Visual Studio 2010\Projects\CS-WinForms - Guild\bin\Release\Facebook.pdb
+C:\Users\AGUSTIN\Documents\Visual Studio 2010\Projects\CS-WinForms - Guild\bin\Release\Facebook.xml
+C:\Users\AGUSTIN\Documents\Visual Studio 2010\Projects\CS-WinForms - Guild\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\AGUSTIN\Documents\Visual Studio 2010\Projects\CS-WinForms - Guild\obj\x86\Release\CS_WinForms.FacebookInfoDialog.resources
+C:\Users\AGUSTIN\Documents\Visual Studio 2010\Projects\CS-WinForms - Guild\obj\x86\Release\CS_WinForms.FacebookLoginDialog.resources
+C:\Users\AGUSTIN\Documents\Visual Studio 2010\Projects\CS-WinForms - Guild\obj\x86\Release\CS_WinForms.Form1.resources
+C:\Users\AGUSTIN\Documents\Visual Studio 2010\Projects\CS-WinForms - Guild\obj\x86\Release\WOW_SOCIAL.Properties.Resources.resources
+C:\Users\AGUSTIN\Documents\Visual Studio 2010\Projects\CS-WinForms - Guild\obj\x86\Release\CS_WinForms.UploadProgressCancelForm.resources
+C:\Users\AGUSTIN\Documents\Visual Studio 2010\Projects\CS-WinForms - Guild\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\AGUSTIN\Documents\Visual Studio 2010\Projects\CS-WinForms - Guild\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\AGUSTIN\Documents\Visual Studio 2010\Projects\CS-WinForms - Guild\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\AGUSTIN\Documents\Visual Studio 2010\Projects\CS-WinForms - Guild\obj\x86\Release\ResGen.write.1.tlog
